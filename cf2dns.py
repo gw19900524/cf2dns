@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Mail: tongdongdong@outlook.com
+
 import random
 import time
 import requests
